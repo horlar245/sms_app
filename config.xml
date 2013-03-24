@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.smartsmsssolutions.sms_app"
+    version   = "0.0.1">
+
+<name>SMS App</name>
+
+<description>
+SMS App
+</description>
+
+<author href="http://smartsmssolutions.com" email="smartsmssolutions@yahoo.com">
+HoRLaR IT Solutions
+</author>
+</widget>
